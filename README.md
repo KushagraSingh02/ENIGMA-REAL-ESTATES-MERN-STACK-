@@ -4,6 +4,8 @@ This website aims to provide a platform for any person interested in searching ,
 features such as latest news , map view and prediction of trends in certain areas.
 
 Contributors:
+
   https://github.com/jsv1604
+  
   https://github.com/KushagraSingh02
 
