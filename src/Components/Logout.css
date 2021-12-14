@@ -1,0 +1,23 @@
+.Logout_welcome-text{
+    background-color: lightgrey;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.Logout_welcome-text_h3{
+    text-align: center;
+}
+.logoutButton1{
+    align-items: center;
+    padding-left: 45%;
+    display:inline-block
+}
+.logoutButton2{
+    align-items: center;
+    padding-left: 5%;
+    display:inline-block
+}
+.logout_animation{
+    height: 200px;
+    width:500px;
+    margin-left: 37%;
+}

@@ -1,0 +1,83 @@
+.cart_body{
+    background-image: "D:\PES\SEM3\WT\unit3\react_using_node\enigma\images\realEstate.jpg" ;
+    opacity: 85%;
+
+}
+.cart{
+    margin:80px 275px;
+    /* width:1130px; */
+    /* max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; */
+    width:100%;
+    padding:30px 75px;
+
+}
+table{
+    width:75%;
+    border-collapse: collapse;
+}
+
+.cart-info{
+    display:flex;
+    flex-wrap:wrap;
+}
+.sampleimg{
+    height:275px;
+    width:200px;
+}
+th{
+    text-align:left;
+
+    padding:5px;
+    color:white;
+    background:black;
+    font-weight: normal;
+}
+
+td{
+    padding: 10px 5px;
+}
+td input{
+    width:40px;
+    height:30px;
+    padding: 5px;
+}
+
+td button{
+    color:chocolate;
+    font-size: 12px;
+
+}
+
+.sampleimg{
+    width:80px;
+    height:80px;
+    margin-right: 10px;
+}
+
+.cart_totalPrice{
+    display:flex;
+    justify-content:space-around;
+    /* max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: right;
+    justify-content: right; */
+}
+.cart_totalPrice table{
+    border-top:3px solid black;
+    border-radius: 20px;
+    width:400px;
+    height:200px
+    /* max-width:350px; */
+}
+.cart_head{
+    border-left:10px solid black;
+    padding:10px;
+    font-size: 50px;
+    margin:auto 20px;
+}
+

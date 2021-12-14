@@ -1,0 +1,62 @@
+.NavbarItems {
+    background-color: #01242b;
+    display: flex;
+    position:relative;
+    overflow: hidden;
+    top:0;
+}
+.titles{
+    padding: 15px 20px 20px;
+    color:rgb(246, 247, 250) ;
+    float: left;
+}
+.nav-menu{
+    display: flex;
+    float: left;
+    /* justify-content: space-between; */
+    /* grid-template-columns: repeat(5,auto); */
+    /* grid-gap: 10px; */
+    list-style: none;
+    /* text-align: center; */
+    width: 70vw;
+    /* justify-content: end;   */
+    /* margin-right: 2rem; */
+}
+.nav-links{
+    color: rgb(248, 249, 252);
+    padding: 20px 20px 20px;
+}
+
+.nav-links:hover{
+    color: purple;
+    border-radius: 4px;
+    transition : all 0.2s ease-out;
+}
+
+.fa-bars {
+    color: azure;
+}
+
+#account1{
+    float: right;
+    color: azure;
+    margin-left: 300px;
+    padding: 20px ;
+}
+
+#account2{
+    float: right;
+    color: azure;
+    margin-left: 250px;
+    padding: 20px ;
+}
+#account3{
+    float: right;
+    color: azure;
+    margin-left: 275px;
+    padding: 20px ;
+}
+/* #account{
+    margin-left: 175px;
+    
+} */

@@ -1,0 +1,55 @@
+.NavbarItems {
+    /* background-color:#474d4e; */
+    background-color:#01242b;
+    overflow: hidden;
+    
+    display: flex;
+    position:relative;
+    overflow: hidden;
+    top:0;
+}
+.linkTag{
+    color:azure;
+    text-decoration: none;
+
+}
+.titles{
+    padding: 15px 20px 20px;
+    color:rgb(246, 247, 250) ;
+    float: left;
+}
+.nav-menu{
+    display: flex;
+    float: left;
+    font-size: 20px;
+    /* justify-content: space-between; */
+    /* grid-template-columns: repeat(5,auto); */
+    /* grid-gap: 10px; */
+    list-style: none;
+    /* text-align: center; */
+    width: 70vw;
+    /* justify-content: end;   */
+    /* margin-right: 2rem; */
+}
+.nav-links{
+    color: rgb(248, 249, 252);
+    padding: 20px 20px 20px;
+}
+
+.nav-menu li :hover{
+    background: white;
+    color: #474d4e;
+    border-radius: 4px;
+    transition : all 0.2s ease-out;
+    text-decoration: none;
+}
+
+.fa-bars {
+    color: azure;
+}
+
+#loc,#cart,#account{
+    float: right;
+    color: azure;
+    padding: 20px 20px 20px;
+}

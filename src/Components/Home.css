@@ -1,0 +1,35 @@
+
+/* .welcome-text {
+	position: absolute;
+	width: 800px;
+	height: 150px;
+	margin: 20% 30%;
+	text-align: center;
+} */
+.welcome-text{
+	background-color: lightgrey;
+}
+.welcome-text h1 {
+	text-align: center;
+	color: #7c989e;
+	text-transform: lowercase;
+	font-size: 60px;
+}
+.welcome-text h1 span {
+	color: black;
+}
+/* .welcome-text a {
+	
+	border: 1px solid #7c989e;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 20px;
+	display: inline-block;
+	color: black;
+}
+.welcome-text a:hover {
+	background: #7c989e;
+	color: #333;
+} */

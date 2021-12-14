@@ -1,0 +1,63 @@
+img{
+    
+    width:100%;
+    
+}
+.brokerTable{
+    border-collapse: collapse;
+    margin: 25px ;
+    font-size: 0.9em;
+    min-width: 400px;
+    
+    border-radius: 8px 8px 8px 8px;
+    overflow: hidden;
+    box-shadow:0 0 20px rgba(0,0,0,0.90)  ;
+}
+
+.brokerTable th{
+    background-color: #009879;
+    color:white;
+    text-align: left;
+    font-weight: bold;
+}
+.brokerTable caption{
+    padding:15px 10px;
+    font-weight: bold;
+    background-color: #009879;
+    color: white;
+    font-size: larger;
+    font:bolder;
+    
+}
+
+.brokerTable th,
+.brokerTable td{
+    padding:30px 75px;
+}
+
+.brokerTable tbody tr{
+    border-bottom: 1px solid #dddddd;
+    width: 750px;
+}
+.brokerTable tbody tr:nth-of-type(even){
+    background-color: rgb(228, 238, 226);
+}
+.brokerTable tbody tr:last-of-type{
+    border-bottom: 2px solid #009879;
+}
+video{
+    width:650;
+    height: 600px;
+    margin: 15px 400px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow:0 0 20px rgba(0,0,0,0.90)  ;
+}
+.main_table{
+    width:1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

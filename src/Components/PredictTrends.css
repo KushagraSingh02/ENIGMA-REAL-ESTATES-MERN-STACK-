@@ -1,0 +1,25 @@
+.place_heading{
+    background-color: lightblue;
+    color:maroon;
+    border-bottom: 7px solid rgb(93, 93, 168);
+}
+.grapha{
+    height:600px;
+    width:900px;
+    
+}
+.graphb{
+    height:250px;
+    width:750px;
+    
+}
+.overflow1{
+    padding-left:75px;
+    display: inline-block;
+}
+.predictBody{
+    background-color: white;
+    width:95%;
+    padding-left: 75px;
+    padding-top: 20px;
+}
